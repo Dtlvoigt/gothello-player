@@ -1,4 +1,4 @@
-##### NOTE I only authored the MyPlayer.java file
+##### NOTE - I only authored the MyPlayer.java file
 
 This is a minimax AI player for the game Gothello that I wrote for my final project in the Artificial Intelligence class at PSU
 
